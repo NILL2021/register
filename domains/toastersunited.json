@@ -1,0 +1,10 @@
+{
+  "description": "My page",
+  "repo": "https://github.com/NILL2021/ToastersUnited.github.io",
+  "owner": {
+    "username": "NILL2021",
+  },
+  "record": {
+    "CNAME": "ToastersUnited.github.io"
+  }
+}
